@@ -1,0 +1,24 @@
+{
+  "beasts": [
+    {
+      "name": "Chupacabra",
+      "id": "xyz16"
+    },
+    {
+      "name": "Snallygaster",
+      "id": "xyz23"
+    },
+    {
+      "name": "Werewolf",
+      "id": "xyz34"
+    },
+    {
+      "name": "Hodag",
+      "id": "xyz28"
+    },
+    {
+      "name": "Sasquatch",
+      "id": "xyz54"
+    }
+  ]
+}
